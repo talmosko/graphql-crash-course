@@ -1,0 +1,3 @@
+https://hasura.io/blog/exploring-graphql-clients-apollo-client-vs-relay-vs-urql/
+
+apollo vs gql-yoga - server side
